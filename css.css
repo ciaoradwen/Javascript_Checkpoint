@@ -1,0 +1,100 @@
+
+
+  html {
+    background-image: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, black, black 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    height: 100%;
+              }
+  
+nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  
+  
+  .container1{
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    color: white;
+  }
+  a:link{text-decoration: none;
+  color:white}
+  a:hover{color: red;}
+ #go{
+   color: white;
+   font-family:  Helvetica;
+   display: flex;
+   justify-content: center;
+ }
+ #feedback{
+   color: white;
+   display: flex;
+   justify-content: center;
+ }
+ #courses{
+   color: white;
+    background-image:url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    height: 450px;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+ }
+ #contact{
+   color:white;
+  
+   background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+   height: 450px;
+   background-position: center;
+   width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+ }
+ .wow{
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ #course{
+   color: white;
+   display: flex;
+   justify-content: center;
+
+ }
+ .img{
+   display: inline-block;
+   display: flex;
+   justify-content: center;
+ }
+ #link{
+   display:flex;
+   justify-content: center;
+   
+ }
+ .img1,.img2,.img3 {
+   display: flex;
+   justify-content: space-around;
+  
+   
+   
+ }
+ #co{
+   display: flex;
+   justify-content: center;
+   
+ }
+ #message{
+   width:150px;
+ }
